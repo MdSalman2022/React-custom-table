@@ -1,7 +1,7 @@
 # React-custom-table
 
 ## Site URL
-(https://mdsalman-react-table.netlify.app/)[https://mdsalman-react-table.netlify.app/]
+[https://mdsalman-react-table.netlify.app/](https://mdsalman-react-table.netlify.app/)
 
 ## Description
 
